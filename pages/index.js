@@ -149,7 +149,7 @@ export default function Home() {
           </div>
 
           <div className="lg:flex gap-10 ">
-            <div className="text-center shadow-lg rounded-xl p-10 my-10 flex-1 dark:bg-slate-50 hover:shadow-2xl transition duration-300 ease-in-out">
+            <div className="text-center shadow-lg rounded-xl p-10 my-10 flex-1 dark:bg-slate-50 hover:shadow-2xl transition duration-300 ease-in-out dar">
               <Image
                 src={design}
                 alt="design"
